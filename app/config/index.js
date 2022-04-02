@@ -3,7 +3,7 @@ const config ={
         port: process.env.PORT || 8080,
     },
     db:{
-        uri: "mongodb+srv://Thinhne1504:Thinhne1504@cluster0.8r9hv.mongodb.net/lab1?retryWrites=true&w=majority"
+        uri: "mongodb+srv://BangTrinh:0052trinh@cluster0.axw16.mongodb.net/trinhb1906789?retryWrites=true&w=majority"
     },
 };
 
